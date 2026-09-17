@@ -1,0 +1,1 @@
+{"name":"schedule","short_name":"S","description":"...","start_url":"/schedule/","display":"standalone","background_color":"#...","theme_color":"#...","lang":"en","scope":"/schedule/","icons":[{"src":"public/web-app-manifest-192x192.png","sizes":"192x192","type":"image/png"},{"src":"public/web-app-manifest-512x512.png","sizes":"512x512","type":"image/png"}]}
